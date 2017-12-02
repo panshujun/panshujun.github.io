@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+欢迎来到潘树军个人Github主页
+Welcome to Pan Shujun's personal Github home page
+# Header 1潘树军
+          Java软件工程师，英文名wildpan，他们都叫我小军
+          北京耀胜中国投资管理有限公司研发部门，目前主要负责耀胜中国资管管理系统研发工作
+## Header 2潘树军的相关链接
+          潘树军的个人博客：https://home.cnblogs.com/u/panshujun
+          潘树军的个人主页：https://panshujun.github.io
+          潘树军的GitHub主页：https://github.com/panshujun
+### Header 
+          大家可以关注我的个人博客，平时我会在上面分享一些大牛的作品，以及自己的总结，还有在开发中遇到的问题和解决方案，
+          有时候也会写一些个人生活感悟，哈哈，比较感性，另外大家可以关注我的GitHub，我平时也比较活跃，也会通过start的
+          方式和大家分享一些比较优秀的开源框架，还有平时自己做的一些小项目，欢迎随时讨论。
 
-You can use the [editor on GitHub](https://github.com/panshujun/wildpan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/panshujun/wildpan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
