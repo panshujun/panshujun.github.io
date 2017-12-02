@@ -5,7 +5,8 @@ Welcome to Pan Shujun's personal Github home page
  
   Java软件工程师，英文名wildpan，他们都叫我小军
   北京耀胜中国投资管理有限公司研发部门，目前主要负责耀胜中国资管管理系统研发工作
- 潘树军的相关链接
+ 
+  潘树军的相关链接
  
           潘树军的个人博客：https://home.cnblogs.com/u/panshujun
           
